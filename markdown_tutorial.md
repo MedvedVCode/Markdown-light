@@ -11,6 +11,7 @@ _Text can be a cursive and **semi-bold**_
 ## Списки
 
 ## Работа с изображениями
+![Three pigs](1627376044.jpg)
 
 ## Ссылки
 
