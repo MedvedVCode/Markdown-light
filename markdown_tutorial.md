@@ -2,6 +2,10 @@
 
 ## Выделение текста
 
+_Cursive_ or *Cursive*
+
+__Semi-bold__ or **Semi-bold**
+
 ## Списки
 
 ## Работа с изображениями
