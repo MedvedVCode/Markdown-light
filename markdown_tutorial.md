@@ -4,6 +4,15 @@
 
 ## Списки
 
+* Not numeric 1
+* Not numeric 2
+* Not numeric 3
+
+1. Numeric 
+1. NUmeric
+1. Numeric
+
+
 ## Работа с изображениями
 
 ## Ссылки
