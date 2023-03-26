@@ -11,12 +11,12 @@ _Text can be a cursive and **semi-bold**_
 ## Списки
 Чтобы выделить ненумерованнй список используйте (*)
 
-* Not numeric 13
-* Not numeric 24
-* Not numeric 35
+* Not numeric 6
+* Not numeric 3
+* Not numeric 9
 
 1. Numeric 
-1. NUmeric
+1. Numeric
 1. Numeric
 
 
