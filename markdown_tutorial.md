@@ -13,11 +13,13 @@ _Text can be a cursive and **semi-bold**_
 
 * Not numeric 1
 * Not numeric 2
++ Not numeric 5
 * Not numeric 3
+  + Not numeric 4
 
 1. Numeric 
-1. Numeric
-1. Numeric
+2. Numeric
+3. Numeric
 
 
 ## Работа с изображениями
