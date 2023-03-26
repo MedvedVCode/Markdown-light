@@ -9,6 +9,7 @@ __Semi-bold__ or **Semi-bold else**
 _Text can be a cursive and **semi-bold**_
 
 ## Списки
+Чтобы выделить ненумерованнй список используйте (*)
 
 ## Работа с изображениями
 ![Three pigs](1627376044.jpg)
