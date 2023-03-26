@@ -2,9 +2,11 @@
 
 ## Выделение текста
 
-_Cursive_ or *Cursive*
+_Cursive_ or *Cursive else*
 
-__Semi-bold__ or **Semi-bold**
+__Semi-bold__ or **Semi-bold else**
+
+_Text can be a cursive and **semi-bold**_
 
 ## Списки
 
