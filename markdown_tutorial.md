@@ -27,6 +27,8 @@ _Text can be a cursive and **semi-bold**_
 
 ## Ссылки
 
+[ссылка на гугл](www.google.com)
+
 ## Работа с таблицами
 
 ## Цитаты
