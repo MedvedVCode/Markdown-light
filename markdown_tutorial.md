@@ -48,5 +48,14 @@ _Text can be a cursive and **semi-bold**_
 >
 > Оформляется с помощью >
 
+## Исходный код
+
+```js
+let a = 10
+const b = true
+console.log(a)
+console.log(b)
+```
+
 ## Заключение
 
