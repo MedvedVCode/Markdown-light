@@ -27,6 +27,11 @@ _Text can be a cursive and **semi-bold**_
 
 ## Ссылки
 
+[yandex.ru](www.yandex.ru) - ссылка с тайтлом
+
+[ссылка c номером][1] - ссылка без тайтла
+
+[1]: http://yandex.ru
 ## Работа с таблицами
 
 ## Цитаты
